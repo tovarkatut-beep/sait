@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "wavespeed": {
+      "type": "stdio",
+      "command": "wavespeed-mcp",
+      "args": [],
+      "env": {
+        "WAVESPEED_API_KEY": "${WAVESPEED_API_KEY}"
+      }
+    }
+  }
+}
